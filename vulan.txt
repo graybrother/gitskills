@@ -1,1 +1,3 @@
 vulcan function
+add a user, clone master to local, build a dev branch from origin/dev
+
