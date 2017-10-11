@@ -2,4 +2,5 @@ vulcan function
 make a chang on gitskills
 add a user, clone master to local, build a dev branch from origin/dev
 make some changes on clone
+edit on zyq/thinkpad
 
